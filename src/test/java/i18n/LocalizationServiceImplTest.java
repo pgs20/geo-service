@@ -1,3 +1,5 @@
+package i18n;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.netology.entity.Country;
